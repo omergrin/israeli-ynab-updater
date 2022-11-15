@@ -29,19 +29,19 @@
     "babel-plugin-transform-es2015-block-scoping": "^6.26.0",
     "babel-plugin-transform-es2015-shorthand-properties": "^6.24.1",
     "babel-preset-env": "^1.7.0",
-    "eslint": "^7.14.0",
-    "eslint-config-airbnb-base": "^14.2.1",
-    "eslint-plugin-import": "^2.22.1",
+    "eslint": "^8.27.0",
+    "eslint-config-airbnb-base": "^15.0.0",
+    "eslint-plugin-import": "^2.26.0",
     "pre-commit": "^1.2.2"
   },
   "dependencies": {
     "babel-polyfill": "^6.26.0",
     "colors": "^1.4.0",
-    "inquirer": "^7.3.3",
-    "israeli-bank-scrapers": "^1.0.1",
-    "json2csv": "^5.0.5",
+    "inquirer": "^8.0.0",
+    "israeli-bank-scrapers": "^3.1.2",
+    "json2csv": "^5.0.7",
     "jsonfile": "^6.1.0",
-    "moment": "^2.29.1",
-    "yargs": "^16.1.1"
+    "moment": "^2.29.4",
+    "yargs": "^17.6.2"
   }
 }
